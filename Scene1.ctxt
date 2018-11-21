@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Scene1
+comment0.text=\n\ Write\ a\ description\ of\ class\ Scene1\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Scene1()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Scene1.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Specifies\ what\ the\ scene\ does\ during\ each\ cycle\ through\ the\ game\ loop\n\ (in\ this\ case,\ we\ check\ to\ see\ if\ the\ mouse\ left\ button\ has\ been\ clicked,\n\ \ and\ if\ so,\ did\ we\ click\ on\ a\ button?\ If\ so,\ then\ load\ the\ next\ scene\ based\n\ \ on\ what\ button\ was\ clicked,\ and\ pass\ along\ some\ data\ to\ used\ in\ the\ \n\ \ next\ scene\n
+numComments=3

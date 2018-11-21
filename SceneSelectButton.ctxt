@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SceneSelectButton
+comment0.text=\n\ Write\ a\ description\ of\ class\ Scene2Button\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=imageFilename
+comment1.target=SceneSelectButton(java.lang.String)
+comment1.text=\n\ Initialize\ instance\ variables\ for\ a\ newly-instantiated\n\ object\ of\ this\ class\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Scene2Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3
